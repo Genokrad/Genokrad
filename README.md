@@ -1,5 +1,4 @@
-<div align="center">
-<img src="https://Genokrad.github.io/blob/main/assets/head.jpeg" align="center" style="width: 100%" />
+[![Header](https://github.com/Genokrad/Genokrad/blob/main/assets/head.jpeg)]
 
 ### <div align="center">I'm Yaroslav Vasin junior full-stack developer</div>
 
