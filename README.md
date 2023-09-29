@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://Genokrad.github.io/static/images/[greetings.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdngyMDg4ODJwNXB1Y2R1cGRqeHJicTZrN3AwcWN5OHBmNnEyMm1oYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L4TNHVeOP0WrWyXT5m/giphy.gif)" align="center" style="width: 100%" />
+<img src="https://Genokrad.github.io/static/images/https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdngyMDg4ODJwNXB1Y2R1cGRqeHJicTZrN3AwcWN5OHBmNnEyMm1oYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L4TNHVeOP0WrWyXT5m/giphy.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Yaroslav Vasin junior full-stack developer</div>
