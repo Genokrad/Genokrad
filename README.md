@@ -1,4 +1,4 @@
-[![Header](https://github.com/Genokrad/Genokrad/blob/main/assets/head.jpeg)]
+![Header](https://github.com/Genokrad/Genokrad/blob/main/assets/head.jpeg?raw=true)
 
 ### <div align="center">I'm Yaroslav Vasin junior full-stack developer</div>
 
