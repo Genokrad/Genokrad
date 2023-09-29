@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://Genokrad.github.io/static/head.jpeg" align="center" style="width: 100%" />
 
-### <div align="left">I'm Yaroslav Vasin junior full-stack developer</div>
+### <div align="center">I'm Yaroslav Vasin junior full-stack developer</div>
 
 - 🔭 I’m currently working on [Plast Art](https://github.com/Genokrad/parcel-beauty-proj)
 
