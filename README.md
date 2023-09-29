@@ -1,4 +1,6 @@
-![Header](https://github.com/Genokrad/Genokrad/blob/main/assets/head.jpeg?raw=true)
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### <div align="center">I'm Yaroslav Vasin junior full-stack developer</div>
 
