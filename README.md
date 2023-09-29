@@ -1,7 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/L4TNHVeOP0WrWyXT5m" width="480" height="218" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/space-marine-astartes-warhammer-40000-L4TNHVeOP0WrWyXT5m">via GIPHY</a></p>
-</div>
+<img src="https://Genokrad.github.io/static/head.jpeg" align="center" style="width: 100%" />
 
 ### <div align="center">I'm Yaroslav Vasin junior full-stack developer</div>
 
