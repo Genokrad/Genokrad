@@ -12,7 +12,7 @@
 
 ## My works
 
-- [The agent](https://theagent.com) / [Files](https://github.com/hvoarang/goit-js-team-project) - HTML/SASS/JS
+- [The agent](https://www.theagent.com/en/) / [Files](https://github.com/Genokrad/the-agent/archive/refs/heads/main.zip) - HTML/SASS/JS
 - [Plast Art](https://genokrad.github.io/parcel-beauty-proj/) / [Files](https://github.com/Genokrad/parcel-beauty-proj/archive/refs/heads/main.zip) - HTML/SASS/JS
 - [My web site](https://vasinyaroslav.com) / [Files](https://github.com/Genokrad/mywebsite/archive/refs/heads/main.zip) - HTML/Tailwind CSS/Js/Three.js/React/Framer/Vite
 - [Babushka weather wisdom](https://genokrad.github.io/babushka_weather/) / [Files](https://github.com/Genokrad/babushka_weather/archive/refs/heads/main.zip) - HTML/SCSS/React/Redux TK/
