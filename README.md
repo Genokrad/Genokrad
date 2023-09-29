@@ -10,6 +10,16 @@
 
 <br/>
 
+## My works
+
+- [The agent](https://theagent.com) / [Files](https://github.com/hvoarang/goit-js-team-project) - HTML/SASS/JS
+- [Plast Art](https://genokrad.github.io/parcel-beauty-proj/) / [Files](https://github.com/Genokrad/parcel-beauty-proj/archive/refs/heads/main.zip) - HTML/SASS/JS
+- [My web site](https://vasinyaroslav.com) / [Files](https://github.com/Genokrad/mywebsite/archive/refs/heads/main.zip) - HTML/Tailwind CSS/Js/Three.js/React/Framer/Vite
+- [Babushka weather wisdom](https://genokrad.github.io/babushka_weather/) / [Files](https://github.com/Genokrad/babushka_weather/archive/refs/heads/main.zip) - HTML/SCSS/React/Redux TK/
+- [Form](https://genokrad.github.io/profile-page-mui/profile) / [Files](https://github.com/Genokrad/profile-page-mui/archive/refs/heads/main.zip) - HTML/React/Redux/MUI/
+- [Cocktails](https://genokrad.github.io/Cocktals/index.html) / [Files](https://github.com/Genokrad/Cocktals/archive/refs/heads/main.zip) - HTML/SASS/Js/Parcel
+- [Movies](https://genokrad.github.io/goit-react-hw-05-movies/) / [Files](https://github.com/Genokrad/goit-react-hw-05-movies/archive/refs/heads/main.zip) - HTML/Styled Component/React/Js/Redux TK
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
